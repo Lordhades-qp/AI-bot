@@ -1,2 +1,4 @@
 # AI-bot
-WhatsApp chatbot 
+`WhatsApp chatbot`
+
+npm install whatsapp-web.js qrcode-terminal
