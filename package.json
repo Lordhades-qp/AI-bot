@@ -1,0 +1,17 @@
+```
+{
+  "name": "nom-de-votre-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot multi device",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "ARIMA",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
+```
