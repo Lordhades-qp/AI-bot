@@ -1,10 +1,13 @@
 # AI-bot
 `WhatsApp chatbot`
+
+
+
 ```
 npm install whatsapp-web.js qrcode-terminal
 ```
 ```
-npm install whatsapp-web.js qrcode-terminal
+npm install @adiwajshing/baileys
 ```
 ```
 node_modules/
